@@ -1,0 +1,130 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+	background: #c8c4c4;
+	font-family: sans-serif;
+}
+
+header{
+background-color: rgb(112, 19, 19);
+}
+nav{
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    width: 400px;
+    height: 20px;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-between;
+}
+.header-bottom{
+    height: 200px;
+    background-color: rgb(108, 43, 168);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.square-img{
+    width: 50%;
+    height: 150px;
+    background-color: black;
+}
+.container.uno {
+    height: 300px;
+    background-color:rgb(21, 77, 81);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container.due {
+    height: 300px;
+    background-color:rgb(33, 55, 57);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    background-color: #db85c3;
+    width: 70%;
+    height: 70%;
+    display: flex;
+}
+.first-box{
+    width: 60%;
+    background-color: gray;
+}
+.second-box{
+    width: 40%;
+    background-color: black
+}
+.third-box{
+    width: 30%;
+    background-color: black;
+}
+.fourth-box{
+    width: 70%;
+    background-color: gray;
+}
+.fiveth-box{
+    width: 60%;
+    background-color: gray;
+}
+.sixth-box{
+    width: 40%;
+    background-color: black;
+}
+.justbox{
+    width: 100%;
+    background-color: rgb(69, 41, 74);
+}
+
+
+footer{
+    background-color: #714d18;
+}
+.footer-top{
+    height: 400px;
+    background-color: rgb(30, 28, 31);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.frst-footer-box{
+    width: 20%;
+    background-color: #7b5b8a;
+}
+.scnd-footer-box{
+    width: 80%;
+    background-color: #4f7193;
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    border: 1px solid rgb(242, 238, 229);
+    width: 25%;
+}
+.footer-bottom{
+    height: 60px;
+    background-color: rgb(30, 28, 31);
+    display: flex;
+    justify-content: center;
+}
+.footer-info{
+    width: 80%;
+    background-color: rgb(124, 127, 130);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info{
+    background-color: #7b5b8a;
+}
