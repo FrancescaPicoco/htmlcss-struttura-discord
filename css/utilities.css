@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{background: #c8c4c4;
+	font-family: sans-serif;}
+
+
+.d-flex{display: flex;}
+.jcont-cent{justify-content: center;}
+.jcont-betw{justify-content: space-between;}
+.alg-items{align-items: center;}
+
+.w{width: 100%;}
+.w-20{width: 20%;}
+.w-25{width: 25%;}
+.w-30{width: 30%;}
+.w-40{width: 40%;}
+.w-50{width: 50%;}
+.w-60{width: 60%;}
+.w-70{width: 70%;}
+.w-80{width: 80%;}    
+
+.gray{background-color: gray;}
+.black{background-color: black;}
